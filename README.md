@@ -1,3 +1,1 @@
-# GithubTutorialGitHub will ask if you want to create a new repo from scratch or if you want to add a repo you have created locally. In this case, since we've already created a new repo locally, we want to push that onto GitHub so follow the ‘
-....or push an existing repository from the command line' section: echo "# GithubTutorial" >> RE
-ADME.mdgit initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/VishalPhule/GithubTutorial.gitgit push -u origin maingit remote add origin https://github.com/VishalPhule/GithubTutorial.gitgit branch -M maingit push -u origin main![image](https://user-images.githubusercontent.com/62477680/173173153-85bfbece-0ee5-4e2b-8381-e57dc112ed59.png)
+
